@@ -4,7 +4,7 @@
 
 const stars = document.getElementById("stars");
 
-for (let i = 0; i < 250; i++) {
+for (let i = 0; i < 100; i++) {
 
     const star = document.createElement("div");
 
@@ -31,7 +31,7 @@ for (let i = 0; i < 250; i++) {
 
 const heart = document.getElementById("heart");
 
-const particles = 1800;
+const particles = 500;
 
 for (let i = 0; i < particles; i++) {
 
